@@ -1,0 +1,6 @@
+{
+  "name": "POS Lao Online - ລະບົບຂາຍສິນຄ້າອອນໄລ",
+  "description": "ລະບົບການຂາຍສິນຄ້າແບບ POS ແລະ ສັ່ງຊື້ອອນໄລ ພ້ອມລະບົບ GPS, COD, QR Code ແລະ Dashboard ຈັດການສິນຄ້າ ແລະ ອໍເດີ້",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
